@@ -12,20 +12,24 @@ I have used Docker since 2014, Swarm as a orchestrator since Docker 1.12 release
 
 ## About the Certified Kubernetes Administrator Program
 
-"_The Cloud Native Computing Foundation offers a certification program that allows users to demonstrate their competence in a hands-on, command-line environment. The purpose of the Certified Kubernetes Administrator (CKA) program is to provide assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators._" - https://www.cncf.io/certification/expert/
+_"The Cloud Native Computing Foundation offers a certification program that allows users to demonstrate their competence in a hands-on, command-line environment. The purpose of the Certified Kubernetes Administrator (CKA) program is to provide assurance that CKAs have the skills, knowledge, and competency to perform the responsibilities of Kubernetes administrators."_ — https://www.cncf.io/certification/expert/
 
 ### Official Preparation Cource
 
-"_The Linux Foundation course Kubernetes Fundamentals (LFS258) maps directly to the requirements for the Certified Kubernetes Administrator exam from the Cloud Native Computing Foundation._" - https://training.linuxfoundation.org/linux-courses/system-administration-training/kubernetes-fundamentals
+_"The Linux Foundation course Kubernetes Fundamentals (LFS258) maps directly to the requirements for the Certified Kubernetes Administrator exam from the Cloud Native Computing Foundation."_ — https://training.linuxfoundation.org/linux-courses/system-administration-training/kubernetes-fundamentals
 
 ### Exam Curriculum
-https://github.com/cncf/curriculum/blob/master/certified_kubernetes_administrator_exam_v1.9.0.pdf
-https://github.com/cncf/curriculum/
 
-### Kubernetes Official Tutorials
+### Kubernetes Documentation
+https://kubernetes.io/docs/home/
+
+### Kubernetes Concepts
+https://kubernetes.io/docs/concepts/
+
+### Kubernetes Tutorials
 https://kubernetes.io/docs/tutorials/
 
-### Kubernetes Official Tasks
+### Kubernetes Tasks
 https://kubernetes.io/docs/tasks/
 
 ### Books
@@ -50,3 +54,5 @@ https://kubernauts-slack-join.herokuapp.com/
 
 ### Other
 http://kubernetesbyexample.com/
+https://github.com/aws-samples/aws-workshop-for-kubernetes
+https://www.datadoghq.com/blog/monitoring-kubernetes-era/
