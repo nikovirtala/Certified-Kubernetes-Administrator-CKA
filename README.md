@@ -43,14 +43,14 @@ http://shop.oreilly.com/product/0636920043874.do
 [](https://github.com/linuxkit/kubernetes)
 
 ### Online Cources
-Internet is full of online learning environments and many of them provide Kubernetes courses that cover  at least some of the exam topics. Most of these are free, at least during the trial period.
-[edX - Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)\(Free, Verified Certificate $99\)
-[edX - Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x)\(Free, Verified Certificate $99\)
-[Udacity - Scalable Microservices with Kubernetes](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)\(Free\)
-[Katakoda - Learn Kubernetes](https://www.katacoda.com/courses/kubernetes)\(Free\)
-[Pluralsight - Getting Started Kubernetes](https://www.pluralsight.com/courses/getting-started-kubernetes)\(10 Free days, Monthly Subscription $29\)
-[Udemy - Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course)\(€9,99\)
-[Coursera - Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine)\(€41\)
+Internet is full of online learning environments and many of them provide Kubernetes courses that cover at least some of the exam topics. Here are few of them. Most of these are free, at least during the trial period.
++ [edX - Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)\(Free, Verified Certificate $99\)
++ [edX - Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x)\(Free, Verified Certificate $99\)
++ [Udacity - Scalable Microservices with Kubernetes](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)\(Free\)
++ [Katakoda - Learn Kubernetes](https://www.katacoda.com/courses/kubernetes)\(Free\)
++ [Pluralsight - Getting Started Kubernetes](https://www.pluralsight.com/courses/getting-started-kubernetes)\(10 Free days, Monthly Subscription $29\)
++ [Udemy - Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course)\(€9,99\)
++ [Coursera - Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine)\(€41\)
 
 
 ### Slack
