@@ -8,7 +8,7 @@ There is a lot pre-existing collections of material and great writings regarding
 
 ## Contribution
 
-The content in this repository is far from complete, so if you have ideas how to complement it, please create an issue or what would be even more impressive, a pull request. In any other kind of queries I recommened to contact me via [Twitter](https://twitter.com/nikovirtala) or Slack.
+The content in this repository is far from complete, so if you have ideas how to complement it, please create an issue or what would be even more impressive, a pull request. In any other kind of queries I recommened to contact me via [Twitter](https://twitter.com/nikovirtala) or Slack. — All the kind of study and/or exam tips and tricks are warmly welcome. :)
 
 ## Motivation
 
@@ -43,7 +43,7 @@ Exam curriculum as it stands in January 2018. — It is mainly mapped to the off
 + [kops - Kubernetes Operations](https://github.com/kubernetes/kops)
 
 ### Online Cources
-Internet is full of online learning environments and many of them provide Kubernetes courses that cover at least some of the exam topics. Here are few of them. Some of them are free and if not, most of them have free trial available.
+Internet is full of online learning environments and many of them provide Kubernetes courses, some of these cource more tightly coupled to CKA exam and some are less. Here you have few of them. Most of them have at least free trial available.
 + [edX - Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x) \(Free, $99 for verified certificate\)
 + [edX - Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x) \(Free, $99 for verified certificate\)
 + [Linux Academy - Certified Kubernetes Administrator](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course) \($49.00 / 1 month, 7 days free trial\)
