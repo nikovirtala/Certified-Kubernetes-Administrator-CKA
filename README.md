@@ -4,7 +4,7 @@
 
 This repository is a collection of resources that I am using in my preparation for [Cloud Native Computing Foundation](https://www.cncf.io/) (CNCF) Certified Kubernetes Administrator (CKA) exam. At the moment this is just a list of useful (or useless?) links but will be completed by the time.
 
-There is a lot pre-existing collections of material and great writings regarding CKA preparation. This specific repository is mainly my personal record of topics I am planning to go thru or have went thru and at the same time a way to keep track of progress but in OSS spirit, I decided to open my notes to you.
+There is a lot pre-existing collections of material and great writings regarding CKA preparation already available. This specific repository is mainly my personal record of topics I am planning to go thru or have went thru and at the same time a way to keep track of progress. In OSS spirit, I decided to open my notes to you.
 
 ## Contribution
 
@@ -12,7 +12,7 @@ The content in this repository is far from complete, so if you have ideas how to
 
 ## Motivation
 
-I have used Docker since 2014, Swarm as a orchestrator since Docker 1.12 release and currently working in an enviroment where our container platform is self-managed Docker Enterprise Edition installation on top of AWS  resources. [Docker, Inc.](https://www.docker.com/) released its plans to bring Kubernetes in to their EE and Desktop products in [DockerCon](https://2018.dockercon.com/) EU 2017 and this gives me a great reason to learn Kubernetes and aside of learning achieve the coveted and prestigious Certified Kubernetes Administrator title.
+I have used Docker since 2014, Swarm as a orchestrator since Docker 1.12 release and currently working in an enviroment where our container platform is self-managed Docker Enterprise Edition installation on top of AWS resources. [Docker, Inc.](https://www.docker.com/) released its plans to bring Kubernetes in to their EE and Desktop products in [DockerCon](https://2018.dockercon.com/) EU 2017 and this gives me a great reason to learn Kubernetes and aside of learning achieve the coveted and prestigious Certified Kubernetes Administrator title.
 
 ## About the Certified Kubernetes Administrator Program
 
@@ -43,7 +43,7 @@ Exam curriculum as it stands in January 2018. — It is mainly mapped to the off
 + [kops - Kubernetes Operations](https://github.com/kubernetes/kops)
 
 ### Online Cources
-Internet is full of online learning environments and many of them provide Kubernetes courses, some of these cource more tightly coupled to CKA exam and some are less. Here you have few of them. Most of them have at least free trial available.
+Internet is full of online learning environments and many of them provide Kubernetes courses, some of these cources more tightly coupled to CKA exam and some are less. Here you have few of them. Most of them have at least free trial available.
 + [edX - Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x) \(Free, $99 for verified certificate\)
 + [edX - Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x) \(Free, $99 for verified certificate\)
 + [Linux Academy - Certified Kubernetes Administrator](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course) \($49.00 / 1 month, 7 days free trial\)
