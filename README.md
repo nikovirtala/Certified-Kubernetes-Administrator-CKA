@@ -25,7 +25,7 @@ _"The Linux Foundation course Kubernetes Fundamentals (LFS258) maps directly to 
 ### Exam Curriculum
 Exam curriculum as it stands in January 2018. — It is mainly mapped to the official Kubernetes Concepts / Documentation / Tasks / Tutorials but there are also some good exceptions. Once there is \[✓\] sign on the right side of the topic, I have went thru it least once.
 
-[Certified Kubernetes Administrator Exam Curriculum](https://github.com/nikovirtala/Certified-Kubernetes-Administrator-CKA/blob/master/Curriculum.md)
+[Certified Kubernetes Administrator Exam Curriculum](https://github.com/nikovirtala/Certified-Kubernetes-Administrator-CKA/blob/master/CURRICULUM.md)
 
 ### Resources at kubernetes.io
 + [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
