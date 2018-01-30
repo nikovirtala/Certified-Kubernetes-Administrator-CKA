@@ -4,7 +4,7 @@
 
 This repository is a collection of resources that I am using in my preparation for [Cloud Native Computing Foundation](https://www.cncf.io/) (CNCF) Certified Kubernetes Administrator (CKA) exam. At the moment this is just a list of useful (or useless?) links but will be completed by the time.
 
-There is a lot pre-existing collections of material and great writings regarding CKA preparation already available. This specific repository is mainly my personal record of topics I am planning to go thru or have went thru and at the same time a way to keep track of progress. In OSS spirit, I decided to open my notes to you.
+There is a lot pre-existing collections of material and great writings regarding CKA preparation already available and all the glory they deserve for them. This specific repository is mainly my personal record of topics I am planning to go thru or have went thru and at the same time sort of a way to keep track of my progress. Nevertheless, in OSS spirit, I decided to open my notes to you.
 
 ## Contribution
 
