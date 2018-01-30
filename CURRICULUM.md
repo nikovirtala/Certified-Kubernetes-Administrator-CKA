@@ -27,15 +27,13 @@ https://github.com/cncf/curriculum/
 
 ### Cluster Maintenance \[11%\]
 + Understand Kubernetes cluster upgrade process.
-  [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-upgrade/)
-  [Canonical Distribution of Kubernetes](https://kubernetes.io/docs/getting-started-guides/ubuntu/upgrades/)
+  + [kubeadm](https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-upgrade/)
+  + [Canonical Distribution of Kubernetes](https://kubernetes.io/docs/getting-started-guides/ubuntu/upgrades/)
 + [Facilitate operating system upgrades.]()
 + [Implement backup and restore methodologies.](https://kubernetes.io/docs/getting-started-guides/ubuntu/backups/)
 
 ### Security \[12%\]
-+ Know how to configure authentication and authorization.
-  [Authentication](https://kubernetes.io/docs/admin/authentication/)
-  [Authorization](https://kubernetes.io/docs/admin/authorization/)
++ Know how to configure [authentication](https://kubernetes.io/docs/admin/authentication/) and [authorization](https://kubernetes.io/docs/admin/authorization/).
 + [Understand Kubernetes security primitives.]()
 + [Know to configure network policies.](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
 + [Create and manage TLS certificates for cluster components.](https://kubernetes.io/docs/tasks/tls/managing-tls-in-a-cluster/)
@@ -68,7 +66,7 @@ https://github.com/cncf/curriculum/
 + [Understand service networking.](https://kubernetes.io/docs/concepts/services-networking/service/)
 + [Deploy and configure network load balancer.](https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/)
 + [Know how to use Ingress rules.](https://kubernetes.io/docs/concepts/services-networking/ingress/)
-  + [Know how to configure and use the cluster DNS.](https://kubernetes.io/docs/tasks/administer-cluster/dns-custom-nameservers/)
++ [Know how to configure and use the cluster DNS.](https://kubernetes.io/docs/tasks/administer-cluster/dns-custom-nameservers/)
 + [Understand CNI.](https://kubernetes.io/docs/concepts/cluster-administration/network-plugins/)
 
 ### Installation, Configuration & Validation \[12%\]
