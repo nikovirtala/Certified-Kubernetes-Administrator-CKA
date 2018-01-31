@@ -4,15 +4,15 @@
 
 This repository is a collection of resources that I am using in my preparation for [Cloud Native Computing Foundation](https://www.cncf.io/) (CNCF) Certified Kubernetes Administrator (CKA) exam. At the moment this is just a list of useful (or useless?) links but will be completed by the time.
 
-There is a lot pre-existing collections of material and great writings regarding CKA preparation already available and all the glory they deserve for them. This specific repository is mainly my personal record of topics I am planning to go thru or have went thru and at the same time sort of a way to keep track of my progress. Nevertheless, in OSS spirit, I decided to open my notes to you.
+There is a lot pre-existing collections of material and great writings regarding CKA preparation already available and all the glory they deserve for them. This specific repository is mainly my personal record of topics I am planning to go thru or have went thru and at the same time sort of a way to keep track of my progress. Despite the previous one, in the name of OSS spirit I decided to publish my notes.
 
 ## Contribution
 
-The content in this repository is far from being complete, so if you have ideas how to complement it, please create an issue or what would be even more impressive, a pull request. In any other kind of queries I recommened to contact me via [Twitter](https://twitter.com/nikovirtala) or Slack. — All the kind of study and/or exam tips and tricks are warmly welcome. :)
+The content in this repository is far from being complete, so if you have ideas how to complement it, please create an issue or what would be even more impressive, a pull request. In any other kind of queries I recommened to contact me via [Twitter](https://twitter.com/nikovirtala), [LinkedIn](https://fi.linkedin.com/in/nikovirtala) or Slack. — All the kind of study and/or exam tips and tricks are warmly welcome. :)
 
 ## Motivation
 
-I have used Docker since 2014, Swarm as a orchestrator since Docker 1.12 release and currently working in an enviroment where our container platform is self-managed Docker Enterprise Edition installation on top of AWS resources. [Docker, Inc.](https://www.docker.com/) released its plans to bring Kubernetes in to their EE and Desktop products in [DockerCon](https://2018.dockercon.com/) EU 2017 and this gives me a great reason to learn Kubernetes and aside of learning achieve the coveted and prestigious Certified Kubernetes Administrator title.
+I have used Docker since 2014, Swarm as an orchestrator since Docker 1.12 release and currently working in an enviroment where our container platform is self-managed [Docker Enterprise Edition](https://www.docker.com/enterprise-edition) installation on top of AWS resources. [Docker, Inc.](https://www.docker.com/) released its plans to bring Kubernetes in to their EE and Desktop products in [DockerCon](https://2018.dockercon.com/) EU 2017 and this gave me a great reason to learn Kubernetes and aside of learning achieve the coveted and prestigious Certified Kubernetes Administrator title.
 
 ## About the Certified Kubernetes Administrator Program
 
@@ -30,6 +30,7 @@ Exam curriculum as it stands in January 2018. — It is mainly mapped to the off
 ### Resources at kubernetes.io
 + [Kubernetes Concepts](https://kubernetes.io/docs/concepts/)
 + [Kubernetes Documentation](https://kubernetes.io/docs/home/)
++ [Kubernetes Setup](https://kubernetes.io/docs/setup/)
 + [Kubernetes Tasks](https://kubernetes.io/docs/tasks/)
 + [Kubernetes Tutorials](https://kubernetes.io/docs/tutorials/)
 
@@ -37,6 +38,10 @@ Exam curriculum as it stands in January 2018. — It is mainly mapped to the off
 + [Kubernetes: Up and Running by Brendan Burns, Kelsey Hightower, Joe Beda](http://shop.oreilly.com/product/0636920043874.do)
 
 ### Setup a Kubernetes Cluster
+_"Kubernetes can run on various platforms: from your laptop, to VMs on a cloud provider, to a rack of bare metal servers. The effort required to set up a cluster varies from running a single command to crafting your own customized cluster. Use this guide to choose a solution that fits your needs."_ — https://kubernetes.io/docs/setup/pick-right-solution/
+
+Try at least following:
+
 + [Kubernetes the Hard Way by Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 + [LinuxKit "distribution" of Kubernetes](https://github.com/linuxkit/kubernetes)
 + [kops - Kubernetes Operations](https://github.com/kubernetes/kops)
@@ -44,14 +49,19 @@ Exam curriculum as it stands in January 2018. — It is mainly mapped to the off
 
 ### Online Cources
 Internet is full of online learning environments and many of them provide Kubernetes courses, some of these cources more tightly coupled to CKA exam and some are less. Here you have few of them. Most of them have at least free trial available.
-+ [edX - Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x) \(Free, $99 for verified certificate\)
-+ [edX - Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x) \(Free, $99 for verified certificate\)
-+ [Linux Academy - Certified Kubernetes Administrator](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course) \($49.00 / 1 month, 7 days free trial\)
-+ [Udacity - Scalable Microservices with Kubernetes](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615) \(Free\)
-+ [Katakoda - Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) \(Free\)
-+ [Pluralsight - Getting Started Kubernetes](https://www.pluralsight.com/courses/getting-started-kubernetes) \($29 / 1 month, 10 days free trial\)
-+ [Udemy - Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course) \(9,99€\)
-+ [Coursera - Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) \(41€\)
++ [edX - Introduction to Kubernetes](https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x) \[Free, $99 for verified certificate\]
++ [edX - Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-containers-kubernetes-red-hat-do081x) \[Free, $99 for verified certificate\]
++ [Linux Academy - Certified Kubernetes Administrator](https://linuxacademy.com/linux/training/course/name/certified-kubernetes-administrator-preparation-course) \[$49.00 / 1 month, 7 days free trial\]
++ [Udacity - Scalable Microservices with Kubernetes](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615) \[Free\]
++ [Katakoda - Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) \[Free\]
++ [Pluralsight - Getting Started Kubernetes](https://www.pluralsight.com/courses/getting-started-kubernetes) \[$29 / 1 month, 10 days free trial\] \[✓\]
++ [Udemy - Learn DevOps: The Complete Kubernetes Course](https://www.udemy.com/learn-devops-the-complete-kubernetes-course) \[9,99€\]
++ [Coursera - Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine) \[41€\]
+
+### Tips & Tricks
++ [CKA Candidate Handbook (pdf)](https://www.cncf.io/certification/candidate-handbook/)
++ [CKA Exam Tips (pdf)](https://www.cncf.io/certification/tips/)
++ [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
 ### Slack
 + [Kubernetes Slack](http://slack.k8s.io/)
@@ -61,3 +71,4 @@ Internet is full of online learning environments and many of them provide Kubern
 + [Kubernetes by Example](http://kubernetesbyexample.com/)
 + [Kubernetes the AWSome Way!](https://github.com/aws-samples/aws-workshop-for-kubernetes)
 + [Monitoring in the Kubernetes era](https://www.datadoghq.com/blog/monitoring-kubernetes-era/)
++ [TGI Kubernetes by Joe Beda](https://www.youtube.com/watch?v=9YYeE-bMWv8&list=PLvmPtYZtoXOENHJiAQc6HmV2jmuexKfrJ)
